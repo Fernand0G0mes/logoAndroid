@@ -1,0 +1,17 @@
+{
+    "name": "Nutrana",
+    "short_name": "Nutrana",
+    "description": "Plan nutricional personalizado en 2 minutos",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#06e96c",
+    "icons": [
+      {
+        "src": "/logoNutrana.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }
+  
